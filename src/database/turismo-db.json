@@ -1,0 +1,350 @@
+{
+    "Provincias": [
+      {
+        "provincia": "Buenos Aires",
+        "lugares_turisticos": [
+          {
+            "nombre": "Teatro Colón",
+            "tipo": "Cultural",
+            "ubicacion": "CABA"
+          },
+          {
+            "nombre": "Caminito",
+            "tipo": "Cultural",
+            "ubicacion": "CABA"
+          }
+        ]
+      },
+      {
+        "provincia": "Catamarca",
+        "lugares_turisticos": [
+          {
+            "nombre": "Cuesta del Portezuelo",
+            "tipo": "Naturaleza",
+            "ubicacion": "Valle de La Punilla"
+          },
+          {
+            "nombre": "Parque Nacional Los Cardones",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Tinogasta"
+          }
+        ]
+      },
+      {
+        "provincia": "Chaco",
+        "lugares_turisticos": [
+          {
+            "nombre": "Reserva Natural Otamendi",
+            "tipo": "Naturaleza",
+            "ubicacion": "Partido de Campana"
+          },
+          {
+            "nombre": "Museo de Medios de Comunicación Raúl Delfino Berneri",
+            "tipo": "Cultural",
+            "ubicacion": "Resistencia"
+          }
+        ]
+      },
+      {
+        "provincia": "Chubut",
+        "lugares_turisticos": [
+          {
+            "nombre": "Península Valdés",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Biedma"
+          },
+          {
+            "nombre": "Gaiman",
+            "tipo": "Cultural",
+            "ubicacion": "Departamento Rawson"
+          }
+        ]
+      },
+      {
+        "provincia": "Córdoba",
+        "lugares_turisticos": [
+          {
+            "nombre": "Cerro Uritorco",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Punilla"
+          },
+          {
+            "nombre": "Manzana Jesuítica",
+            "tipo": "Cultural",
+            "ubicacion": "Córdoba"
+          }
+        ]
+      },
+      {
+        "provincia": "Corrientes",
+        "lugares_turisticos": [
+          {
+            "nombre": "Esteros del Iberá",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Ituzaingó"
+          },
+          {
+            "nombre": "Teatro Oficial Juan de Vera",
+            "tipo": "Cultural",
+            "ubicacion": "Corrientes"
+          }
+        ]
+      },
+      {
+        "provincia": "Entre Ríos",
+        "lugares_turisticos": [
+          {
+            "nombre": "Termas de Colón",
+            "tipo": "Naturaleza",
+            "ubicacion": "Colón"
+          },
+          {
+            "nombre": "Palacio San José",
+            "tipo": "Cultural",
+            "ubicacion": "Entre Ríos"
+          }
+        ]
+      },
+      {
+        "provincia": "Formosa",
+        "lugares_turisticos": [
+          {
+            "nombre": "Laguna Oca del Bosque",
+            "tipo": "Naturaleza",
+            "ubicacion": "Formosa"
+          },
+          {
+            "nombre": "Plaza San Martín",
+            "tipo": "Cultural",
+            "ubicacion": "Formosa"
+          }
+        ]
+      },
+      {
+        "provincia": "Jujuy",
+        "lugares_turisticos": [
+          {
+            "nombre": "Quebrada de Humahuaca",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Humahuaca"
+          },
+          {
+            "nombre": "Catedral Basílica de San Salvador",
+            "tipo": "Cultural",
+            "ubicacion": "San Salvador de Jujuy"
+          }
+        ]
+      },
+      {
+        "provincia": "La Pampa",
+        "lugares_turisticos": [
+          {
+            "nombre": "Reserva Provincial Parque Luro",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Toay"
+          },
+          {
+            "nombre": "Museo de Historia Natural de La Pampa",
+            "tipo": "Cultural",
+            "ubicacion": "Santa Rosa"
+          }
+        ]
+      },
+      {
+        "provincia": "La Rioja",
+        "lugares_turisticos": [
+          {
+            "nombre": "Talampaya",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Coronel Felipe Varela"
+          },
+          {
+            "nombre": "Catedral de La Rioja",
+            "tipo": "Cultural",
+            "ubicacion": "La Rioja"
+          }
+        ]
+      },
+      {
+        "provincia": "Mendoza",
+        "lugares_turisticos": [
+          {
+            "nombre": "Parque Provincial Aconcagua",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Las Heras"
+          },
+          {
+            "nombre": "Plaza Independencia",
+            "tipo": "Cultural",
+            "ubicacion": "Mendoza"
+          }
+        ]
+      },
+      {
+        "provincia": "Misiones",
+        "lugares_turisticos": [
+          {
+            "nombre": "Cataratas del Iguazú",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Iguazú"
+          },
+          {
+            "nombre": "Ruinas de San Ignacio",
+            "tipo": "Cultural",
+            "ubicacion": "Departamento San Ignacio"
+          }
+        ]
+      },
+      {
+        "provincia": "Neuquén",
+        "lugares_turisticos": [
+          {
+            "nombre": "Villa La Angostura",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Los Lagos"
+          },
+          {
+            "nombre": "Museo Nacional de Bellas Artes de Neuquén",
+            "tipo": "Cultural",
+            "ubicacion": "Neuquén"
+          }
+        ]
+      },
+      {
+        "provincia": "Río Negro",
+        "lugares_turisticos": [
+          {
+            "nombre": "Cerro Tronador",
+            "tipo": "Naturaleza",
+            "ubicacion": "Bariloche"
+          },
+          {
+            "nombre": "Museo de la Patagonia",
+            "tipo": "Cultural",
+            "ubicacion": "Bariloche"
+          }
+        ]
+      },
+      {
+        "provincia": "Salta",
+        "lugares_turisticos": [
+          {
+            "nombre": "Tren a las Nubes",
+            "tipo": "Naturaleza",
+            "ubicacion": "Salta"
+          },
+          {
+            "nombre": "Catedral Basílica de Salta",
+            "tipo": "Cultural",
+            "ubicacion": "Salta"
+          }
+        ]
+      },
+      {
+        "provincia": "San Juan",
+        "lugares_turisticos": [
+          {
+            "nombre": "Valle de la Luna",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Valle Fértil"
+          },
+          {
+            "nombre": "Catedral Basílica de San Juan Bautista",
+            "tipo": "Cultural",
+            "ubicacion": "San Juan"
+          }
+        ]
+      },
+      {
+        "provincia": "San Luis",
+        "lugares_turisticos": [
+          {
+            "nombre": "Sierras de las Quijadas",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Ayacucho"
+          },
+          {
+            "nombre": "La Florida",
+            "tipo": "Cultural",
+            "ubicacion": "San Luis"
+          }
+        ]
+      },
+      {
+        "provincia": "Santa Cruz",
+        "lugares_turisticos": [
+          {
+            "nombre": "Glaciar Perito Moreno",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Lago Argentino"
+          },
+          {
+            "nombre": "Museo Regional Padre Jesús Molina",
+            "tipo": "Cultural",
+            "ubicacion": "Río Gallegos"
+          }
+        ]
+      },
+      {
+        "provincia": "Santa Fe",
+        "lugares_turisticos": [
+          {
+            "nombre": "Parque Nacional El Palmar",
+            "tipo": "Naturaleza",
+            "ubicacion": "Colón"
+          },
+          {
+            "nombre": "Museo Nacional de la Constitución",
+            "tipo": "Cultural",
+            "ubicacion": "Rosario"
+          }
+        ]
+      },
+      {
+        "provincia": "Santiago del Estero",
+        "lugares_turisticos": [
+          {
+            "nombre": "Termas de Río Hondo",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Río Hondo"
+          },
+          {
+            "nombre": "Basílica Catedral de Santiago del Estero",
+            "tipo": "Cultural",
+            "ubicacion": "Santiago del Estero"
+          }
+        ]
+      },
+      {
+        "provincia": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+        "lugares_turisticos": [
+          {
+            "nombre": "Ushuaia",
+            "tipo": "Naturaleza",
+            "ubicacion": "Departamento Ushuaia"
+          },
+          {
+            "nombre": "Museo Marítimo y del Presidio de Ushuaia",
+            "tipo": "Cultural",
+            "ubicacion": "Ushuaia"
+          }
+        ]
+      },
+      {
+        "provincia": "Tucumán",
+        "lugares_turisticos": [
+          {
+            "nombre": "Cerro San Javier",
+            "tipo": "Naturaleza",
+            "ubicacion": "Yerba Buena"
+          },
+          {
+            "nombre": "Casa Histórica de la Independencia",
+            "tipo": "Cultural",
+            "ubicacion": "San Miguel de Tucumán"
+          }
+        ]
+      }
+    ]
+  }
+  
